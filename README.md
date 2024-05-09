@@ -37,7 +37,7 @@ If you have any questions, feel free to reach out to me:
 - Utsa Modules
 
 ## Sources
-ThomasCalle's youtube channel
-tutoring session with andres
-https://www.youtube.com/watch?v=geB_9Ib9YhY&t=525s
-Jeffery Gilbert - My Uncle he codes 
+* ThomasCalle's youtube channel
+* https://www.youtube.com/watch?v=geB_9Ib9YhY&t=525s
+* tutoring session with andres
+* Jeffery Gilbert - My Uncle he codes 
